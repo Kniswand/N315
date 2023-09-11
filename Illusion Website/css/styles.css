@@ -1,0 +1,42 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+    background-color: #000;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}
+
+img{
+    width: 50%;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: black;
+    color:white;
+    text-decoration: underline;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
